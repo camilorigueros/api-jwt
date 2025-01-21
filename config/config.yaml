@@ -1,0 +1,8 @@
+security:
+    jwt:
+        secret: "ap_go_clave*."
+        expiration: 3600
+        issuer: "login"
+    users:
+        camilo: "camilo1"
+        juan: "juan2"
